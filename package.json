@@ -1,0 +1,20 @@
+{
+  "name": "three-js-workshops",
+  "version": "1.0.0",
+  "description": "Three js workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "3js"
+  ],
+  "author": "k1ssa1",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.167.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  }
+}
